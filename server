@@ -2,4 +2,4 @@
 
 # Arch-repo packages
 sudo pacman -Syu --noconfirm nginx mariadb php php-fpm php-gd wget \
-unzip certbot certbot-nginx neovim
+unzip certbot certbot-nginx neovim openssh
